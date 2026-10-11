@@ -17,6 +17,7 @@
 
 17 guided steps on a fresh install: connect agents, watch a hidden-text PDF and a forbidden reply get stopped, replay the
 attack-to-action chain, run the Investigator and read the measured results. Prefer video?
+
 [Watch the demo video (3:41)](https://drive.google.com/file/d/1o5QA6S0ZicrkToq-H9SjGHx3dmqcIWkO/view).
 
 
